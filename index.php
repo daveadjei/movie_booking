@@ -52,7 +52,7 @@ var_dump($name);
         <form method="post" action="">
             <br> Movie
             <select name="name">
-                <option >Sing</option>
+                <option>Sing</option>
                 <option>Hannibal</option>
                 <option>Black Panther</option>
                 <option>Ice Age</option>
