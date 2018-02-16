@@ -1,0 +1,42 @@
+body{
+background-color: #000;
+box-sizing: content-box;
+}
+
+.container{
+display: flex;
+height: 40vw;
+width: 100%;
+background-image: url('./img/Hugo_Movie_Stills_Bookstore_1_-_Mr_Labisse-8064.jpg');
+background-repeat:no-repeat;
+background-size: 100%;
+}
+
+.row{
+    display: flex;
+    align-items: center;
+    margin: auto;
+    position: relative;
+    margin-top:16vw;
+}
+
+.btn{
+margin: 4vw;
+border-radius: 12px;
+background-color: white;
+color: black;
+border: 2px solid #4CAF50;
+transition-duration: 0.4s;
+font-size: 16px;
+}
+
+
+.btn:hover {
+    background-color: rgb(181, 241, 183);
+    color: rgb(0, 107, 247);
+    font-weight: bold;
+    text-align: center;
+}
+
+
+

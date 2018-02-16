@@ -34,6 +34,11 @@ var_dump($id);
 
 <form method="get" action="" class="row">
 
+<?php
+
+?>
+
+
         <!-- The next things (button) are just placeholders. Please delete -->
         <button type="button" class="btn btn-primary">Name</button>
 
