@@ -8,7 +8,7 @@
 
 print_r($_GET);
 // Get the id from the URL
-$id= htmlspecialchars($_GET["id"]);
+// $id= htmlspecialchars($_GET["id"]);
 var_dump($id);
 
 // Get the id and time from the Dd in order to compare
@@ -31,8 +31,6 @@ var_dump($id);
 <body>
 
 <div class="container">
-<img class="master_image" src="./img/Hugo_Movie_Stills_Bookstore_1_-_Mr_Labisse-8064.jpg"
-        style="opacity: 0.6;" width="100%">
 
 <form method="get" action="" class="row">
 
